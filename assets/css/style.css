@@ -1,0 +1,96 @@
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+body *{
+    
+    margin: 0;
+    border: 0;
+    padding: 0;
+} 
+
+.original {
+    font-weight: 300;
+    color: #707070;
+    margin-bottom: 0%;
+    margin-top: 2%;
+    padding-right: 5%;
+}
+
+.texto-uno {
+    margin-bottom: 0%;
+    font-size: 105%;
+}
+
+.texto-dos {
+    font-size: 85%;
+}
+
+.list-group h5{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: #28A745;
+    margin-right: 4%;
+    margin-top: 2%;
+}
+
+.title-form {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-weight: normal;
+    font-size: 1.3rem;
+    color: #FFFFFF;
+}
+
+.card-title{
+    font-weight: 300;
+    font-weight: normal;
+    color: #212529;
+}
+
+.card p {
+    font-weight: 300;
+    color: #707070;
+}
+
+.nav-foot {
+    background-color: #28A745;
+}
+
+footer img {
+    width: 120px;
+
+}
+
+.logo-nav img {
+    width: 120px;
+}
+
+.navbar-brand {
+   margin-right: 2em;
+}
+
+.icon {
+    font-size: 11px;
+    vertical-align: 3%;
+}
+
+.btn {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+.text-foot {
+    font-family: 'Roboto', sans-serif;
+    color: #707070;
+    font-weight: 300;
+    font-size: medium;
+}
+
+
+/* .col-1 {
+    min-width: 90px;
+} */
+
